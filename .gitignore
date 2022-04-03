@@ -6,4 +6,9 @@ node_modules
 .env
 .env.*
 !.env.example
+
+# DB접속 정보
 /src/lib/dbURL.js
+
+# 로컬 빌드 파일
+/build
