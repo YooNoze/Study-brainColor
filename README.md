@@ -1,3 +1,15 @@
+# brainColor
+
+구현 : 간단한 색깔 맞추기 게임 구현해보기
+
+- sveltekit
+  - 라우팅 구현
+  - REST API 구현
+- mongoDB
+  - 데이터 저장
+- Rest API Client Extension for Visual Studio Code
+  - API 테스팅
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
